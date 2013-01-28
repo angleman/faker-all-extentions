@@ -1,0 +1,19 @@
+{
+  "name": "faker-all-extentions",
+  "description": "Faker with all extentions and languages",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vyacheslav Kotiya",
+    "email": "clexit@clexit.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clexit/faker-all-extentions.git"
+  },
+  "dependencies": {
+    "Faker": "*",
+    "faker-ext": "*",
+    "faker-ru": "*",
+    "faker-doc": "*"
+  }
+}
